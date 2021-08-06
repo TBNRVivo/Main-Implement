@@ -18,3 +18,8 @@ h4 {
 .para-header {
   font-weight: bold;
 }
+
+#note {
+  font-weight: bold;
+  color: crimson;
+}
