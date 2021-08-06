@@ -2,6 +2,9 @@
   color: black;
 }
 
-html {
+h1,
+p,
+h2,
+h4 {
   font-family: sans-serif;
 }
